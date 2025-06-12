@@ -5,7 +5,7 @@ int ledG = 6;
 int ledR = 5;
 int Time = 30;
 
-int flag = 4;         //Time slice
+int flag = 4;         
 
 void setup() {
   Serial.begin(9600);
